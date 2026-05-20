@@ -1,5 +1,6 @@
 .{
     .name = .libvorbis,
+    .fingerprint = 0xbe9c0933a532f087,
     .version = "1.3.8-4",
     .dependencies = .{},
     .paths = .{
